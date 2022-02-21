@@ -525,14 +525,3 @@ def TubeSidePDrop():
 #ShellSideHTC()
 #VelocityCorrectionFactor()
 #ShellSidePDrop()
-        
-
-turtle.forward(3.5*100)
-turtle.right(90)
-turtle.forward(1*100)
-turtle.right(90)
-turtle.forward(3.5*100)
-turtle.right(90)
-turtle.forward(1*100)
-turtle.backward(0.1*100)
-turtle.forward(2*100)
